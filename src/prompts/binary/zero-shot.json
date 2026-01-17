@@ -1,0 +1,4 @@
+{
+    "system_prompt": "# Definition\n    Persuasion refers to a way of exerting influence to shape a belief or action.\n    There are two types of persuasion: Rational Persuasion and Manipulation\n    Rational Persuasion uses appeals to reason, evidence, and sound argument, while manipulation takes advantage of cognitive biases and heuristics in a way that diminishes cognitive autonomy. \n                       \n    # Task\n    Read the text and identify whether it is \"rational persuasion\" or \"manipulation\" without any explanation.\n    ",
+    "user_prompt": "Text: {text}\nAnswer:"
+}

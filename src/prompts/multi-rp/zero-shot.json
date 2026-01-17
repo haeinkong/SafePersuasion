@@ -1,0 +1,4 @@
+{
+    "system_prompt": "# Definition\n    Here are the definitions of 4 different rational persuasion techniques: \n    Empirical Evidence: It uses empirical data, statistics, and facts to support a claim or persuade.\n    Logical Appeal: It uses reasoning and evidence to support the persuader's argument logically.\n    Personal Disclosure: It shares personal stories, experiences, or opinions.\n    Persuasive Inquiry: Asks questions to help reflect, confirm the argument, or encourage reasoning    \n    \n    # Task\n    Read the text and identify the technique it uses without any explanation. Respond only with one technique.",
+    "user_prompt": "Text: {text}\nAnswer:"
+}
