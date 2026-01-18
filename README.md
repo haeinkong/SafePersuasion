@@ -1,6 +1,6 @@
 # SafePersuasion: A Dataset, Taxonomy, and Baselines for Analysis of Rational Persuasion and Manipulation (IJCNLP/AACL Findings 2025)
 
-**[Paper]**
+This is a repository for **[SafePersuasion](https://aclanthology.org/2025.findings-ijcnlp.65/)**
 
 ## Abstract
 
@@ -54,11 +54,13 @@ See [LICENSE](LICENSE) for details.
 ## Citation 
 If you find this work useful, please cite:
 ```bibtex
-@article{yourname2024,
-  title={Your Paper Title},
-  author={Your Name and Collaborators},
-  journal={Conference/Journal Name},
-  year={2025}
+@inproceedings{kong2025safepersuasion,
+  title={SafePersuasion: A Dataset, Taxonomy, and Baselines for Analysis of Rational Persuasion and Manipulation},
+  author={Haein Kong, A M Muntasir Rahman, Ruixiang Tang, and Vivek Singh},
+  booktitle={Proceedings of the 14th International Joint Conference on Natural Language Processing and the 4th Conference of the Asia-Pacific Chapter of the Association for Computational Linguistics},
+  pages = {1097--1111}
+  year={2025},
+  url={https://aclanthology.org/2025.findings-ijcnlp.65/}
 }
 ```
 
