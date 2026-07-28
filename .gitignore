@@ -1,0 +1,12 @@
+# Environment files
+.env
+.env.*
+/safe
+**/__pycache__/
+*.ipynb
+
+# Ad-hoc smoke test scripts
+_smoketest*.py
+
+# Generated inference outputs
+/results/
