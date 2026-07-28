@@ -17,8 +17,13 @@ Persuasion is a central feature of communication, widely used to influence belie
 └── src
     ├── loader.py # Data Loading
     ├── main.py # Main experiment code
-    ├── models/ # Model utilities
-    └── prompts/ # Prompt templates
+    ├── runner.py # Shared inference loop
+    ├── models/ # Model-specific API call wrappers
+    └── prompts/
+        ├── fewshot_utils.py # Shared few-shot sampling
+        ├── binary/ # Prompt templates
+        ├── multi-m/ # Prompt templates
+        └── multi-rp/ # Prompt templates
 ├── LICENSE
 ├── README.md
 ├── requirements.txt
