@@ -2,6 +2,8 @@
 
 This is a repository for **[SafePersuasion](https://aclanthology.org/2025.findings-ijcnlp.65/)**
 
+The dataset is also available on 🤗 Hugging Face: **[haeinkong/SafePersuasion](https://huggingface.co/datasets/haeinkong/SafePersuasion)**
+
 ## Abstract
 
 Persuasion is a central feature of communication, widely used to influence beliefs, attitudes, and behaviors. In today’s digital landscape, across social media and online platforms, persuasive content is pervasive, appearing in political campaigns, marketing, fundraising appeals, and more. These strategies span a broad spectrum, from rational and ethical appeals to highly manipulative tactics, some of which pose significant risks to individuals and society. Despite the growing need to identify and differentiate safe from unsafe persuasion, empirical research in this area remains limited. To address this gap, we introduce `SafePersuasion`, a two-level taxonomy and annotated dataset that categorizes persuasive techniques based on their safety. We evaluate the baseline performance of three large language models in detecting manipulation and its subtypes, and report only moderate success in distinguishing manipulative content from rational persuasion. By releasing `SafePersuasion`, we aim to advance research on detecting unsafe persuasion and support the development of tools that promote ethical standards and transparency in persuasive communication online
