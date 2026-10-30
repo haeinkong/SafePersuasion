@@ -2,7 +2,7 @@
 
 This is a repository for **[SafePersuasion](https://aclanthology.org/2025.findings-ijcnlp.65/)**
 
-The dataset is also available on 🤗 Hugging Face: **[haeinkong/SafePersuasion](https://huggingface.co/datasets/haeinkong/SafePersuasion)**
+The dataset is also available on **[🤗 Hugging Face](https://huggingface.co/datasets/haeinkong/SafePersuasion)**.
 
 ## Abstract
 
